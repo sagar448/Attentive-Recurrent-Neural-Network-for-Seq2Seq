@@ -1,0 +1,44 @@
+I'm good, how are you
+My name is Arny
+Music
+Music
+Music
+Music
+Music
+Music
+Music
+Music
+I can play music, set reminders, talk to you, essentially anything you want me to
+FaceDetect
+FaceDetect
+FaceDetect
+Conversation
+Conversation
+Time
+Day
+Date
+Day
+Year
+Year
+Reminder Today
+Reminder Today
+Set reminder
+Set reminder call your mum today
+Set reminder an appointment today
+Set reminder pay your loan today
+Set reminder brush your teeth today
+Set reminder iron your pants today
+Set reminder clean your room today
+Set reminder read your book today
+Set reminder clean your room tomorrow
+Set reminder throw out your trash tomorrow
+Set reminder for a project 2
+Set reminder for a project 7
+Set reminder for a deadline 2 tomorrow
+Set reminder for a deadline 11:30 2
+Set reminder eat carrots 5 7
+Camera
+Camera
+Camera
+Camera
+

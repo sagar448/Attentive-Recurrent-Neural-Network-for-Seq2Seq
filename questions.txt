@@ -3,7 +3,11 @@ Do you know who I am?
 What is my name?
 Tell me something interesting.
 Im bored.What time is it?What day is it?Whats the date today?What day is it today?What is the year?What year is it?Any reminders?What do I have planned for today?Set a reminder.Can you remind me to call mum.Can you remind me about my appointment.Can you remind me to pay my loan.Remind me to brush my teeth.
-Set a reminder for tomorrow.
+Remind me to iron my pants.
+Remind me to clean my room.
+Remind me to read my book.
+Set a reminder for clean my room tomorrow.
+Set a reminder for throwing out trash tomorrow.
 Set a reminder for project two days from now.
 Set a reminder for project in a week from now.
 Set a reminder for deadline at 2 tomorrow.
